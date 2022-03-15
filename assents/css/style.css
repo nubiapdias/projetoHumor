@@ -1,5 +1,7 @@
-@import url("http://fonts.cdnfonts.com/css/harry-potter");
-@import url("http://fonts.cdnfonts.com/css/magic-school-one");
+@font-face {
+  font-family: "Harry Potter";
+  src: url("../fonts/harry_p/hpf.TTF");
+}
 
 * {
   margin: 0;
