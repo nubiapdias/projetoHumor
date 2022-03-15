@@ -5,6 +5,18 @@
   src: local('Harry Potter'), url('https://fonts.cdnfonts.com/s/25438/HARRP___.woff');
 }
 
+@font-face {
+  font-family: 'Harry Potter';
+  src: url(../fonts/MagicSchoolOne.ttf);
+  font-style: normal;
+  font-weight: 400px;
+}
+
+@font-face {
+  font-family: "Magic School One";
+  src: url(../fonts/MagicSchoolTwo.ttf);
+}
+
 * {
   margin: 0;
   padding: 0;
